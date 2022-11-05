@@ -8,7 +8,7 @@ class NoAdvertSummaryError(Exception):
     pass
 
 
-class RequestNotSuccessfull(Exception):
+class RequestNotSuccessfullError(Exception):
     pass
 
 
@@ -45,7 +45,7 @@ def get_data_from_willhaben(
     r = requests.get(url, cookies=cookies, params=params, timeout=60)
 
     if not r.ok:
-        raise RequestNotSuccessfull("Request was not successful", url)
+        raise RequestNotSuccessfullError("Request was not successful", url)
 
     return r.text
 
@@ -91,7 +91,7 @@ if __name__ == "__main__":
                         print(f"Page: {page}, price_to: 24999, saved to {file.name}")
                     break
 
-                except RequestNotSuccessfull as e:
+                except RequestNotSuccessfullError as e:
                     print(e)
                     time.sleep(i * 10)
 
@@ -115,7 +115,7 @@ if __name__ == "__main__":
                         print(f"Page: {page}, price_from: 24999, saved to {file.name}")
                     break
 
-                except RequestNotSuccessfull as e:
+                except RequestNotSuccessfullError as e:
                     print(e)
                     time.sleep(i * 10)
 
