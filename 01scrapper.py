@@ -95,7 +95,8 @@ if __name__ == "__main__":
                     print(e)
                     time.sleep(i * 10 + 1)
 
-                except NoAdvertSummaryError:
+                except NoAdvertSummaryError as e:
+                    print(e)
                     break
 
         # Scrap all from price > 25000
@@ -119,7 +120,8 @@ if __name__ == "__main__":
                     print(e)
                     time.sleep(i * 10 + 1)
 
-                except NoAdvertSummaryError:
+                except NoAdvertSummaryError as e:
+                    print(e)
                     break
 
     except KeyboardInterrupt:
