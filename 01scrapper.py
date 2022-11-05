@@ -75,7 +75,7 @@ if __name__ == "__main__":
     now = datetime.now().strftime("%Y-%m-%d")
     try:
         # Scrap all until price < 25000
-        for page in range(1000):
+        for page in range(1, 1000):
             time.sleep(0.5)
             for i in range(5):
                 try:
@@ -99,7 +99,7 @@ if __name__ == "__main__":
                     break
 
         # Scrap all from price > 25000
-        for page in range(1000):
+        for page in range(1, 1000):
             time.sleep(0.5)
             for i in range(5):
                 try:
