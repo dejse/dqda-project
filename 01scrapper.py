@@ -45,7 +45,7 @@ def get_data_from_willhaben(
     r = requests.get(url, cookies=cookies, params=params, timeout=60)
 
     if not r.ok:
-        raise RequestNotSuccessfullError("Request was not successful", url)
+        raise RequestNotSuccessfullError("Request was not successful", page)
 
     return r.text
 
@@ -93,7 +93,7 @@ if __name__ == "__main__":
 
                 except RequestNotSuccessfullError as e:
                     print(e)
-                    time.sleep(i * 10)
+                    time.sleep(i * 10 + 1)
 
                 except NoAdvertSummaryError:
                     break
@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
                 except RequestNotSuccessfullError as e:
                     print(e)
-                    time.sleep(i * 10)
+                    time.sleep(i * 10 + 1)
 
                 except NoAdvertSummaryError:
                     break
