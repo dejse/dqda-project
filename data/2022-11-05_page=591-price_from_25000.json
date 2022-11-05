@@ -1,0 +1,5069 @@
+{
+  "advertSummary": [
+    {
+      "id": "515893692",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "Renault Captur TCe 140 EDC PF R.S. Line",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Vorführwagen, Prompt verfügbar   inkl. Winterreifen auf Alufelgen (Foto) inkl. Safety Paket Sicht inkl. City Paket inkl. Sitzheizung inkl. Notrad inkl. Metallic Bi-Ton inkl. LED Scheinwerfer"
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "1500"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "Renault"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "39aa3330-4023-405c-baed-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1636116360000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "Captur"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "Captur TCe 140 EDC PF R.S. Line"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "29990.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "5"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "28839912"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/renault-captur-tce-140-edc-pf-r-s-line-515893692/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-11-05T13:46:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "103"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "2/515/893/692_-12919372.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100001"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Klingerstrasse 3"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/28839912/lagerhaus_3377738673972924169.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "15"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "40"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "48.04328,16.30467"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Guntramsdorf"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "2353"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE/BONUS",
+            "values": [
+              "29490.0"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Niederösterreich"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "Raiffeisen - Lagerhaus Wiener Becken Autohaus Guntramsdorf"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "3"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "83;26;42;120;96;88;69;111;93;74;45;3;15;77;8;102;109;94;38;89;19;125;126;5;99;6;97;24;84;95;82;78;110;34;86;2;11;9"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Mödling"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "Renault Captur TCe 140 EDC PF R.S. Line"
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "SUV / Geländewagen"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "515893692"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "6"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2021"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "2/515/893/692_-12919372.jpg;2/515/893/692_593553765.jpg;2/515/893/692_1155719769.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "true"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180004"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "29990"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 29.990"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1667559317000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Benzin"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Automatik"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Vorführwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "8-fach Bereift",
+              "Antriebsschlupfregelung (ASR)",
+              "Bordcomputer",
+              "Handy induktiv laden",
+              "Keyless entry",
+              "LED-Scheinwerfer",
+              "Leichtmetall-/Alufelgen",
+              "Mittelarmlehne",
+              "Notbremsassistent",
+              "Parksensor hinten",
+              "Regensensor",
+              "Seitenairbags",
+              "Sitzheizung",
+              "Stabilitätsprogramme (ESP)",
+              "Zentralverriegelung",
+              "Parksensor vorne & hinten",
+              "Notrufsystem",
+              "Multifunktionslenkrad",
+              "Klimaautomatik",
+              "Freisprecheinrichtung",
+              "elektr. Spiegel",
+              "Apple CarPlay",
+              "Android Auto",
+              "ABS",
+              "Bluetooth / USB",
+              "elektr. Fensterheber",
+              "ISOFIX",
+              "Fahrerairbag",
+              "Leasingfähig",
+              "Lichtsensor",
+              "Metallic-Lackierung",
+              "MwSt. ausweisbar",
+              "Nichtraucherfahrzeug",
+              "Radio",
+              "Rückfahrkamera",
+              "Servolenkung",
+              "Tempomat",
+              "Klimaanlage"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Ja"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "2/515/893/692_-12919372.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515893692/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/2/515/893/692_-12919372_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/2/515/893/692_-12919372_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/2/515/893/692_-12919372.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "2/515/893/692_-12919372.jpg"
+          },
+          {
+            "id": 1,
+            "name": "2/515/893/692_593553765.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515893692/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/2/515/893/692_593553765_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/2/515/893/692_593553765_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/2/515/893/692_593553765.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "2/515/893/692_593553765.jpg"
+          },
+          {
+            "id": 1,
+            "name": "2/515/893/692_1155719769.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515893692/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/2/515/893/692_1155719769_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/2/515/893/692_1155719769_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/2/515/893/692_1155719769.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "2/515/893/692_1155719769.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/515893692",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/515893692",
+            "selected": false,
+            "relativePath": "/atverz/515893692",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/renault-captur-tce-140-edc-pf-r-s-line-515893692/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/renault-captur-tce-140-edc-pf-r-s-line-515893692/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/515893692",
+            "selected": false,
+            "relativePath": "/515893692",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/515893692",
+            "selected": false,
+            "relativePath": "/userfolders/remove/515893692",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/515893692",
+            "selected": false,
+            "relativePath": "/userfolders/links/515893692",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=515893692",
+            "selected": false,
+            "relativePath": "/iad/object?adId=515893692",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung, Garantie",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "515862956",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "BMW 5er-Reihe 520d 48 V Touring xDrive Aut.",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "BMW 520d xDrive Touring 2,0 Diesel 140KW/190PS, 16.900KM +++ALLRAD, AUTOMATIK+++ WERKSGARANTIE BIS 06/2023 beschränkt mit 100.000KM Highlights der Ausstattung: Imperialblau Sitzheizung für Fahrer und Beifahrer Gepäckraumpaket Sonnenschutzverglasung..."
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "16900"
+            ]
+          },
+          {
+            "name": "imagedescription",
+            "values": [
+              "Bild 1"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "BMW"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "e728a073-ac93-4fd3-b5cd-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1636107840000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "5er-Reihe"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "520d 48 V Touring xDrive Aut."
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "46990.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "5"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "19734990"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/bmw-5er-reihe-520d-48-v-touring-xdrive-aut-515862956/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-11-05T11:24:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "140"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "6/515/862/956_1821833226.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100022"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Oberhöflein 55"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/19734990/autohaus_klement_gmbh_6607003193695744702.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "50"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "48.80069,15.74372"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Oberhöflein"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "2091"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Niederösterreich"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "Autohaus Klement GmbH"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "21"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "5;101;85;24;69;42;6;9;40;2;34;15;8;75;19;96;116;94;74;89;82;105;98;86;99;95;106;88;38;102"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Horn"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "BMW 5er-Reihe 520d 48 V Touring xDrive Aut."
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "Kombi / Family Van"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "515862956"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2020"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "6/515/862/956_1821833226.jpg;6/515/862/956_1640625752.jpg;6/515/862/956_-199884852.jpg;6/515/862/956_1775499654.jpg;6/515/862/956_-1210123160.jpg;6/515/862/956_2146104905.jpg;6/515/862/956_1420820854.jpg;6/515/862/956_721160280.jpg;6/515/862/956_422575950.jpg;6/515/862/956_-596118616.jpg;6/515/862/956_148306059.jpg;6/515/862/956_1490680842.jpg;6/515/862/956_-1969162481.jpg;6/515/862/956_-106365466.jpg;6/515/862/956_1422064457.jpg;6/515/862/956_1511914875.jpg;6/515/862/956_-427557504.jpg;6/515/862/956_619642392.jpg;6/515/862/956_812054483.jpg;6/515/862/956_-173802765.jpg;6/515/862/956_-1302989629.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180004"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "46990"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 46.990"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1661242793000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Hybrid Elektro/Diesel"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Automatik"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Jahreswagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "ABS",
+              "Dachreling",
+              "Servicegepflegt",
+              "Fahrerairbag",
+              "Leichtmetall-/Alufelgen",
+              "Bordcomputer",
+              "elektr. Fensterheber",
+              "Klimaanlage",
+              "Navigationssystem",
+              "Servolenkung",
+              "Radio",
+              "Sitzheizung",
+              "Zentralverriegelung",
+              "Beifahrerairbags",
+              "elektr. Spiegel",
+              "Keyless entry",
+              "Kurvenfahrlicht",
+              "Multifunktionslenkrad",
+              "Parksensor hinten",
+              "Freisprecheinrichtung",
+              "Metallic-Lackierung",
+              "Start/Stopp-Automatik",
+              "Head-Up-Display",
+              "Rückfahrkamera",
+              "Bluetooth / USB",
+              "Lichtsensor",
+              "Spurhalteassistent",
+              "LED-Scheinwerfer",
+              "Klimaautomatik",
+              "Parksensor vorne & hinten"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Nein"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "6/515/862/956_1821833226.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515862956/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/862/956_1821833226_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/862/956_1821833226_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/862/956_1821833226.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/862/956_1821833226.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/515/862/956_1640625752.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515862956/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/862/956_1640625752_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/862/956_1640625752_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/862/956_1640625752.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/862/956_1640625752.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/515/862/956_-199884852.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515862956/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/862/956_-199884852_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/862/956_-199884852_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/862/956_-199884852.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/862/956_-199884852.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/515862956",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/515862956",
+            "selected": false,
+            "relativePath": "/atverz/515862956",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/bmw-5er-reihe-520d-48-v-touring-xdrive-aut-515862956/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/bmw-5er-reihe-520d-48-v-touring-xdrive-aut-515862956/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/515862956",
+            "selected": false,
+            "relativePath": "/515862956",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/515862956",
+            "selected": false,
+            "relativePath": "/userfolders/remove/515862956",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/515862956",
+            "selected": false,
+            "relativePath": "/userfolders/links/515862956",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=515862956",
+            "selected": false,
+            "relativePath": "/iad/object?adId=515862956",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "515836498",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "Land Rover Range Rover Evoque 2,0 D165 S Aut. Allrad",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "inklusive:   1AG Santorini Black Metallic Lackierung   028LD Anhängerkupplung elektrisch   030NT Automatisches Abblendlicht   047DB Dunkel getönte Scheiben ab B-Säule   064AP Nebelscheinwerfer vorne   070AV Heckklappe elektrisch   072BI Winter Paket -..."
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "10"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "Land Rover"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "6486f463-76c1-4e2f-9889-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1636102080000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "Range Rover Evoque"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "Range Rover Evoque 2,0 D165 S Aut. Allrad"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "61900.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "5"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "19976578"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/land-rover-range-rover-evoque-2-0-d165-s-aut-allrad-515836498/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-11-05T09:48:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "120"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "8/515/836/498_-383848347.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100003"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Industriestrasse 4"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/19976578/auto_breitfuss_metall_3d_1662165612343410815.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "15"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "10"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "47.42031,12.82826"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Saalfelden am Steinernen Meer"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "5760"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Salzburg"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "Autohaus Breitfuss"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "15"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "38;88;114;94;40;74;102;86;106;77;11;72;19;42;122;119;69;111;93;45;3;15;104;8;5;126;125;75;123;89;9;12;113;68;109;81;85;90;23;124;99;6;24;121;97;117;84;95;82;78;34;2;105;26"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Zell am See"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "Land Rover Range Rover Evoque 2,0 D165 S Aut. Allrad"
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "SUV / Geländewagen"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "515836498"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "14"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "8/515/836/498_-383848347.jpg;8/515/836/498_-578297263.jpg;8/515/836/498_-243078066.jpg;8/515/836/498_2059531758.jpg;8/515/836/498_-1319112989.jpg;8/515/836/498_-1418663544.jpg;8/515/836/498_1246682439.jpg;8/515/836/498_-1872639624.jpg;8/515/836/498_1855515888.jpg;8/515/836/498_1088412843.jpg;8/515/836/498_-919280490.jpg;8/515/836/498_-943595811.jpg;8/515/836/498_1699930840.jpg;8/515/836/498_-448470920.jpg;8/515/836/498_-1247881754.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180004"
+            ]
+          },
+          {
+            "name": "EMISSION_STANDARD",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "61900"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 61.900"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1661244061000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Diesel"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Automatik"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Neuwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "Klimaautomatik",
+              "LED-Scheinwerfer",
+              "Lederlenkrad",
+              "Multifunktionslenkrad",
+              "Navigationssystem",
+              "Parksensor hinten",
+              "Parksensor vorne & hinten",
+              "Rückfahrkamera",
+              "Spurhalteassistent",
+              "Stabilitätsprogramme (ESP)",
+              "Tempomat",
+              "elektr. Sitze",
+              "elektr. Spiegel",
+              "Bordcomputer",
+              "Fernlichtassistent",
+              "Kollisionswarner",
+              "Leichtmetall-/Alufelgen",
+              "Mittelarmlehne",
+              "Notbremsassistent",
+              "Regensensor",
+              "Seitenairbags",
+              "Sitzheizung",
+              "Tagfahrlicht",
+              "Zentralverriegelung",
+              "ABS",
+              "Android Auto",
+              "Apple CarPlay",
+              "Beifahrerairbags",
+              "Einparkhilfe",
+              "Freisprecheinrichtung",
+              "Klimaanlage",
+              "Lederausstattung",
+              "Lenkradheizung",
+              "Nebelscheinwerfer",
+              "Notrufsystem",
+              "Reifendrucksensor",
+              "Servicegepflegt",
+              "Winterpaket",
+              "Anhängerkupplung",
+              "Aut. Heckklappe",
+              "Bluetooth / USB",
+              "elektr. Fensterheber",
+              "Fahrerairbag",
+              "Frontscheibenheizung",
+              "ISOFIX",
+              "Kopfairbags",
+              "Leasingfähig",
+              "Lichtsensor",
+              "Metallic-Lackierung",
+              "MwSt. ausweisbar",
+              "Radio",
+              "Servolenkung",
+              "Start/Stopp-Automatik",
+              "Antriebsschlupfregelung (ASR)"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Ja"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "8/515/836/498_-383848347.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515836498/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/8/515/836/498_-383848347_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/8/515/836/498_-383848347_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/8/515/836/498_-383848347.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "8/515/836/498_-383848347.jpg"
+          },
+          {
+            "id": 1,
+            "name": "8/515/836/498_-578297263.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515836498/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/8/515/836/498_-578297263_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/8/515/836/498_-578297263_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/8/515/836/498_-578297263.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "8/515/836/498_-578297263.jpg"
+          },
+          {
+            "id": 1,
+            "name": "8/515/836/498_-243078066.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515836498/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/8/515/836/498_-243078066_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/8/515/836/498_-243078066_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/8/515/836/498_-243078066.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "8/515/836/498_-243078066.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/515836498",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/515836498",
+            "selected": false,
+            "relativePath": "/atverz/515836498",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/land-rover-range-rover-evoque-2-0-d165-s-aut-allrad-515836498/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/land-rover-range-rover-evoque-2-0-d165-s-aut-allrad-515836498/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/515836498",
+            "selected": false,
+            "relativePath": "/515836498",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/515836498",
+            "selected": false,
+            "relativePath": "/userfolders/remove/515836498",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/515836498",
+            "selected": false,
+            "relativePath": "/userfolders/links/515836498",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=515836498",
+            "selected": false,
+            "relativePath": "/iad/object?adId=515836498",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung, Garantie",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "515836572",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "VW T-Roc Sport TSI ACT DSG",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Farbton: Black Oak Brown Metallic Extras: LED-Rückleuchten Fahrersitz verstellbar Sitzbezug Stoff Automatische Distanzregelung Heckklappe elektrisch Wegfahrsperre elektrisch Make-up Spiegel beleuchtet Notrufsystem / E-Call Start-Stopp-System..."
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "26810"
+            ]
+          },
+          {
+            "name": "imagedescription",
+            "values": [
+              "Bild 1"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "VW"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "412050cf-1933-4beb-be90-e2c91a4831c9"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1636102080000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "T-Roc"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "T-Roc Sport TSI ACT DSG"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "29490.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "5"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "22316253"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/vw-t-roc-sport-tsi-act-dsg-515836572/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-11-05T09:48:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "110"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "2/515/836/572_1429195884.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100001"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Eco Plus Park 3 Strasse 2"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/22316253/369640_logo_4659541121491721029.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "48.03246,16.79683"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Bruck an der Leitha"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "2460"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Niederösterreich"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "Autohaus Kamper GmbH"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "19"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "69;9;15;11;23;19;94;45;104;100;86;88;81;87;125"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Bruck an der Leitha"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "VW T-Roc Sport TSI ACT DSG"
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "SUV / Geländewagen"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "515836572"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "4"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2019"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "2/515/836/572_1429195884.jpg;2/515/836/572_485085644.jpg;2/515/836/572_-435697229.jpg;2/515/836/572_-1161510197.jpg;2/515/836/572_2018955963.jpg;2/515/836/572_-1562062127.jpg;2/515/836/572_871025093.jpg;2/515/836/572_454544507.jpg;2/515/836/572_1693765685.jpg;2/515/836/572_1140441533.jpg;2/515/836/572_-578500084.jpg;2/515/836/572_1937168112.jpg;2/515/836/572_1641600150.jpg;2/515/836/572_1904332852.jpg;2/515/836/572_1085457765.jpg;2/515/836/572_-894184868.jpg;2/515/836/572_-1405431196.jpg;2/515/836/572_-501885985.jpg;2/515/836/572_506451491.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180004"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "29490"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 29.490"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1666168909000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Benzin"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Automatik"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Gebrauchtwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "Leichtmetall-/Alufelgen",
+              "Klimaanlage",
+              "Sitzheizung",
+              "Tempomat",
+              "Anhängerkupplung",
+              "elektr. Spiegel",
+              "Multifunktionslenkrad",
+              "Regensensor",
+              "Tagfahrlicht",
+              "Abstandstempomat",
+              "Rückfahrkamera",
+              "LED-Scheinwerfer",
+              "Reifendrucksensor",
+              "Media-Interface / mp3",
+              "Apple CarPlay"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Nein"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "2/515/836/572_1429195884.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515836572/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/2/515/836/572_1429195884_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/2/515/836/572_1429195884_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/2/515/836/572_1429195884.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "2/515/836/572_1429195884.jpg"
+          },
+          {
+            "id": 1,
+            "name": "2/515/836/572_485085644.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515836572/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/2/515/836/572_485085644_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/2/515/836/572_485085644_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/2/515/836/572_485085644.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "2/515/836/572_485085644.jpg"
+          },
+          {
+            "id": 1,
+            "name": "2/515/836/572_-435697229.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515836572/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/2/515/836/572_-435697229_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/2/515/836/572_-435697229_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/2/515/836/572_-435697229.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "2/515/836/572_-435697229.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/515836572",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/515836572",
+            "selected": false,
+            "relativePath": "/atverz/515836572",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/vw-t-roc-sport-tsi-act-dsg-515836572/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/vw-t-roc-sport-tsi-act-dsg-515836572/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/515836572",
+            "selected": false,
+            "relativePath": "/515836572",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/515836572",
+            "selected": false,
+            "relativePath": "/userfolders/remove/515836572",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/515836572",
+            "selected": false,
+            "relativePath": "/userfolders/links/515836572",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=515836572",
+            "selected": false,
+            "relativePath": "/iad/object?adId=515836572",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "515831565",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "Skoda Kamiq 1,0 TSI SC",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "** Mehrausstattungen **  Ambientebeleuchtung weiß  Dekoreinlagen Lattice Grey  ŠKODA Plus Garantie 5 Jahre 100.000 km  Style Plus SIMPLY CLEVER-Paket ** Serienausstattung **    ABS (Antiblockiersystem)  Airbag für Fahrer und Beifahrer..."
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "17000"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "Skoda"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "9805d234-7332-47cd-afea-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1636101300000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "Kamiq"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "Kamiq 1,0 TSI SC"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "26990.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "5"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "19972776"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/skoda-kamiq-1-0-tsi-sc-515831565/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-11-05T09:35:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "70"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "5/515/831/565_847635968.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100001"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Villacher Strasse 14"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/19972776/logo_patterer_3896491088400777361.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "15"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "46.62762,13.37588"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Hermagor"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "9620"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Kärnten"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "Autohaus Patterer GmbH"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "37"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "42;122;88;112;111;74;15;8;81;94;87;68;9;89;19;123;125;126;5;75;6;99;97;117;34;105;11;106"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Hermagor"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "Skoda Kamiq 1,0 TSI SC"
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "SUV / Geländewagen"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "515831565"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "9"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2021"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "5/515/831/565_847635968.jpg;5/515/831/565_372368278.jpg;5/515/831/565_377152492.jpg;5/515/831/565_-740764885.jpg;5/515/831/565_-6888402.jpg;5/515/831/565_1276699633.jpg;5/515/831/565_-2034705829.jpg;5/515/831/565_390784475.jpg;5/515/831/565_1625676414.jpg;5/515/831/565_-1425680312.jpg;5/515/831/565_1560604214.jpg;5/515/831/565_-622731407.jpg;5/515/831/565_1597561637.jpg;5/515/831/565_-2088769607.jpg;5/515/831/565_-1095249469.jpg;5/515/831/565_277402183.jpg;5/515/831/565_118479616.jpg;5/515/831/565_1782175304.jpg;5/515/831/565_-128590792.jpg;5/515/831/565_-1705058722.jpg;5/515/831/565_-1675893727.jpg;5/515/831/565_1494472986.jpg;5/515/831/565_1820449865.jpg;5/515/831/565_185386424.jpg;5/515/831/565_1514331192.jpg;5/515/831/565_-598348763.jpg;5/515/831/565_-399125504.jpg;5/515/831/565_-1166612272.jpg;5/515/831/565_-1848124993.jpg;5/515/831/565_510121670.jpg;5/515/831/565_-618476431.jpg;5/515/831/565_1223745185.jpg;5/515/831/565_-1851730305.jpg;5/515/831/565_1246678189.jpg;5/515/831/565_-29371797.jpg;5/515/831/565_-1319773642.jpg;5/515/831/565_-1277566684.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180001"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "26990"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 26.990"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1661340722000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Benzin"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Schaltgetriebe"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Gebrauchtwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "Bordcomputer",
+              "Fernlichtassistent",
+              "LED-Scheinwerfer",
+              "Lordosenstütze",
+              "Mittelarmlehne",
+              "Parksensor hinten",
+              "Sitzheizung",
+              "Zentralverriegelung",
+              "Reifendrucksensor",
+              "Multifunktionslenkrad",
+              "Media-Interface / mp3",
+              "Nebelscheinwerfer",
+              "Klimaanlage",
+              "Freisprecheinrichtung",
+              "elektr. Spiegel",
+              "Einparkhilfe",
+              "Apple CarPlay",
+              "Android Auto",
+              "ABS",
+              "Beifahrerairbags",
+              "elektr. Fensterheber",
+              "Bluetooth / USB",
+              "ISOFIX",
+              "Kopfairbags",
+              "Radio",
+              "Start/Stopp-Automatik",
+              "Tempomat",
+              "Spurhalteassistent"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Nein"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "5/515/831/565_847635968.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515831565/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/5/515/831/565_847635968_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/515/831/565_847635968_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/5/515/831/565_847635968.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "5/515/831/565_847635968.jpg"
+          },
+          {
+            "id": 1,
+            "name": "5/515/831/565_372368278.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515831565/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/5/515/831/565_372368278_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/515/831/565_372368278_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/5/515/831/565_372368278.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "5/515/831/565_372368278.jpg"
+          },
+          {
+            "id": 1,
+            "name": "5/515/831/565_377152492.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515831565/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/5/515/831/565_377152492_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/515/831/565_377152492_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/5/515/831/565_377152492.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "5/515/831/565_377152492.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/515831565",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/515831565",
+            "selected": false,
+            "relativePath": "/atverz/515831565",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/skoda-kamiq-1-0-tsi-sc-515831565/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/skoda-kamiq-1-0-tsi-sc-515831565/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/515831565",
+            "selected": false,
+            "relativePath": "/515831565",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/515831565",
+            "selected": false,
+            "relativePath": "/userfolders/remove/515831565",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/515831565",
+            "selected": false,
+            "relativePath": "/userfolders/links/515831565",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=515831565",
+            "selected": false,
+            "relativePath": "/iad/object?adId=515831565",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "515766266",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "Citroën Spacetourer e-Spacetourer Batterie 50kWH M Shine",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Warum Auto Bernhard? Kurz gesagt: Wir haben alles, was Sie brauchen! Wir überzeugen unsere Kunden seit 1997 mit einem umfangreichen Serviceangebot und der Kunde ist KönigIn. Das bedeutet, wir nehmen uns ausführlich Zeit und erledigen vom Angebot bis hin..."
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "11111"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "Citroën"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "41f06690-3cea-46c2-a3ef-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1636090500000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "Spacetourer"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "Spacetourer e-Spacetourer Batterie 50kWH M Shine"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "49990.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "8"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "19852486"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/citroen-spacetourer-e-spacetourer-batterie-50kwh-m-shine-515766266/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-11-05T06:35:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "100"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "6/515/766/266_-753038632.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100004"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Antlassweg 1"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/19852486/citroen_e__bernhard_gmbh___co__kg_6806108833218535580.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "15"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "47.54661,12.10252"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Langkampfen"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "6336"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Tirol"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "E. Bernhard GmbH"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "18"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "78;84;19;6;98;9;38;12;94;92;45;2;15;35;11;8;114;96;69;5;75;77;24;117;93;81;3;106;95;116;68;104;43;74;123;102;86;99;42;89;40;26"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Kufstein"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "Citroën Spacetourer e-Spacetourer Batterie 50kWH M Shine"
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "Kombi / Family Van"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "515766266"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "6"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2020"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "6/515/766/266_-753038632.jpg;6/515/766/266_-1531647718.jpg;6/515/766/266_1955719425.jpg;6/515/766/266_-1373641485.jpg;6/515/766/266_-112269602.jpg;6/515/766/266_-1120542041.jpg;6/515/766/266_-327363019.jpg;6/515/766/266_1268638770.jpg;6/515/766/266_-1199580421.jpg;6/515/766/266_-966011002.jpg;6/515/766/266_388289668.jpg;6/515/766/266_-1851800640.jpg;6/515/766/266_1859644017.jpg;6/515/766/266_-1254955432.jpg;6/515/766/266_-1555961838.jpg;6/515/766/266_-1066344161.jpg;6/515/766/266_-1227840438.jpg;6/515/766/266_1515561945.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180004"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "49990"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 49.990"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1665641584000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Elektro"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Automatik"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Gebrauchtwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "MwSt. ausweisbar",
+              "Leasingfähig",
+              "elektr. Spiegel",
+              "elektr. Fensterheber",
+              "Head-Up-Display",
+              "Klimaanlage",
+              "Klimaautomatik",
+              "Lederausstattung",
+              "Multifunktionslenkrad",
+              "Panoramadach",
+              "Regensensor",
+              "Servolenkung",
+              "Sitzheizung",
+              "Standheizung",
+              "Tempomat",
+              "Zentralverriegelung",
+              "Lederlenkrad",
+              "Keyless entry",
+              "Leichtmetall-/Alufelgen",
+              "ABS",
+              "Beifahrerairbags",
+              "Stabilitätsprogramme (ESP)",
+              "Fahrerairbag",
+              "Kopfairbags",
+              "Notbremsassistent",
+              "Reifendrucksensor",
+              "Seitenairbags",
+              "Spurhalteassistent",
+              "Lichtsensor",
+              "Kurvenfahrlicht",
+              "Nebelscheinwerfer",
+              "Tagfahrlicht",
+              "Xenon",
+              "Parksensor hinten",
+              "Einparkhilfe",
+              "Parksensor vorne & hinten",
+              "Rückfahrkamera",
+              "Bluetooth / USB",
+              "Bordcomputer",
+              "Freisprecheinrichtung",
+              "Navigationssystem",
+              "Antriebsschlupfregelung (ASR)"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Ja"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "6/515/766/266_-753038632.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515766266/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/766/266_-753038632_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/766/266_-753038632_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/766/266_-753038632.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/766/266_-753038632.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/515/766/266_-1531647718.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515766266/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/766/266_-1531647718_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/766/266_-1531647718_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/766/266_-1531647718.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/766/266_-1531647718.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/515/766/266_1955719425.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515766266/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/766/266_1955719425_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/766/266_1955719425_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/766/266_1955719425.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/766/266_1955719425.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/515766266",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/515766266",
+            "selected": false,
+            "relativePath": "/atverz/515766266",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/citroen-spacetourer-e-spacetourer-batterie-50kwh-m-shine-515766266/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/citroen-spacetourer-e-spacetourer-batterie-50kwh-m-shine-515766266/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/515766266",
+            "selected": false,
+            "relativePath": "/515766266",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/515766266",
+            "selected": false,
+            "relativePath": "/userfolders/remove/515766266",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/515766266",
+            "selected": false,
+            "relativePath": "/userfolders/links/515766266",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=515766266",
+            "selected": false,
+            "relativePath": "/iad/object?adId=515766266",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung, Garantie",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "515746499",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "VW T-Roc Design TSI",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Extras: SD-Karten-Reader Komfortsitz Coming-Home-Funktion LED-Rückleuchten Fahrersitz verstellbar 3-Punktautomatikgurte hinten Sitzbezug Stoff Tire Mobility Set Reifendichtmittel und Kompressor Thermoverglasung geteilte Rückbank"
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "10"
+            ]
+          },
+          {
+            "name": "imagedescription",
+            "values": [
+              "Bild 1"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "VW"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "7be347dd-3132-4dac-8e1a-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1636086120000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "T-Roc"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "T-Roc Design TSI"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "25990.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "5"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "29486219"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/vw-t-roc-design-tsi-515746499/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-11-05T05:22:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "81"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "9/515/746/499_-903818631.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100001"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Vogelweiderstrasse 69"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/29486219/porschesalzburg_3280061724481806135.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "47.81618,13.05328"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Salzburg"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "5020"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Salzburg"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "Porsche Salzburg"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "19"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "101;69;6;9;40;2;34;15;117;75;3;19;77;97;111;94;45;114;104;100;86;106;88;38;81;87;102;112;124;5;26;11;74"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Salzburg Stadt"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "VW T-Roc Design TSI"
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "SUV / Geländewagen"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "515746499"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "9"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2021"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "9/515/746/499_-903818631.jpg;9/515/746/499_-474754923.jpg;9/515/746/499_248433246.jpg;9/515/746/499_-1245591104.jpg;9/515/746/499_-1764769494.jpg;9/515/746/499_-48773618.jpg;9/515/746/499_-672283966.jpg;9/515/746/499_-338702874.jpg;9/515/746/499_1435160788.jpg;9/515/746/499_-201011467.jpg;9/515/746/499_-686697503.jpg;9/515/746/499_-1687106079.jpg;9/515/746/499_211077092.jpg;9/515/746/499_778095855.jpg;9/515/746/499_574146680.jpg;9/515/746/499_1565184368.jpg;9/515/746/499_1719913603.jpg;9/515/746/499_-2130326889.jpg;9/515/746/499_1888865399.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180001"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "25990"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 25.990"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1666772965000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Benzin"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Schaltgetriebe"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Gebrauchtwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "Dachreling",
+              "Leichtmetall-/Alufelgen",
+              "elektr. Fensterheber",
+              "Klimaanlage",
+              "Navigationssystem",
+              "Servolenkung",
+              "Radio",
+              "Sitzheizung",
+              "Kopfairbags",
+              "Beifahrerairbags",
+              "Seitenairbags",
+              "elektr. Spiegel",
+              "Stabilitätsprogramme (ESP)",
+              "ISOFIX",
+              "Mittelarmlehne",
+              "Multifunktionslenkrad",
+              "Regensensor",
+              "Lederlenkrad",
+              "Tagfahrlicht",
+              "Abstandstempomat",
+              "Rückfahrkamera",
+              "Spurhalteassistent",
+              "LED-Scheinwerfer",
+              "Klimaautomatik",
+              "Reifendrucksensor",
+              "Media-Interface / mp3",
+              "Parksensor vorne & hinten",
+              "Lordosenstütze",
+              "Aut. Heckklappe",
+              "ABS",
+              "Antriebsschlupfregelung (ASR)",
+              "Tempomat",
+              "Parksensor hinten"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Nein"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "9/515/746/499_-903818631.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515746499/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/9/515/746/499_-903818631_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/515/746/499_-903818631_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/9/515/746/499_-903818631.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "9/515/746/499_-903818631.jpg"
+          },
+          {
+            "id": 1,
+            "name": "9/515/746/499_-474754923.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515746499/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/9/515/746/499_-474754923_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/515/746/499_-474754923_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/9/515/746/499_-474754923.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "9/515/746/499_-474754923.jpg"
+          },
+          {
+            "id": 1,
+            "name": "9/515/746/499_248433246.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515746499/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/9/515/746/499_248433246_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/515/746/499_248433246_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/9/515/746/499_248433246.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "9/515/746/499_248433246.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/515746499",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/515746499",
+            "selected": false,
+            "relativePath": "/atverz/515746499",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/vw-t-roc-design-tsi-515746499/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/vw-t-roc-design-tsi-515746499/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/515746499",
+            "selected": false,
+            "relativePath": "/515746499",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/515746499",
+            "selected": false,
+            "relativePath": "/userfolders/remove/515746499",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/515746499",
+            "selected": false,
+            "relativePath": "/userfolders/links/515746499",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=515746499",
+            "selected": false,
+            "relativePath": "/iad/object?adId=515746499",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "515742796",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "BMW 3er-Reihe 320d xDrive 48V Mild-Hybrid-Technologie Aut.",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Neupreis EUR 59.012,-, Größerer Kraftstofftank, Rekuperationssystem, Automatik Getriebe, Sport Lederlenkrad, Reifendruckanzeige, Alarmanlage, Komfortzugang, Innen- und Außenspiegelpaket, Durchladesystem, Sportsitze Fahrer und Beifahrer, Lordosenstütze..."
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "26970"
+            ]
+          },
+          {
+            "name": "imagedescription",
+            "values": [
+              "Bild 1"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "BMW"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "0d627519-58e2-4d0a-88c1-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1636077960000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "3er-Reihe"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "320d xDrive 48V Mild-Hybrid-Technologie Aut."
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "36990.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "5"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "22483748"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/bmw-3er-reihe-320d-xdrive-48v-mild-hybrid-technologie-aut-515742796/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-11-05T03:06:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "140"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "6/515/742/796_1918235620.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100022"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Wetzelsdorferstrasse 35"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/22483748/denzel_4721288685217612285.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "47.05781,15.4136"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Graz"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "8052"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Steiermark"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "DENZEL Graz"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "12"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "5;24;69;15;8;117;75;3;29;19;77;97;94;45;63;26;114;104;89;88;38;81;84;87;112;9"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Graz"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "BMW 3er-Reihe 320d xDrive 48V Mild-Hybrid-Technologie Aut."
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "Limousine"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "515742796"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "14"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2021"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "6/515/742/796_1918235620.jpg;6/515/742/796_1932520840.jpg;6/515/742/796_-1890516332.jpg;6/515/742/796_1547431888.jpg;6/515/742/796_-1791102860.jpg;6/515/742/796_-1810497389.jpg;6/515/742/796_-1641546072.jpg;6/515/742/796_1400566521.jpg;6/515/742/796_1109064905.jpg;6/515/742/796_1036318423.jpg;6/515/742/796_-687801804.jpg;6/515/742/796_-1482425815.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180004"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "36990"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 36.990"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1667639595000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Hybrid Elektro/Diesel"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Automatik"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Gebrauchtwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "ABS",
+              "Fahrerairbag",
+              "Leichtmetall-/Alufelgen",
+              "Sitzheizung",
+              "Zentralverriegelung",
+              "Kopfairbags",
+              "Beifahrerairbags",
+              "Seitenairbags",
+              "Alarmanlage",
+              "elektr. Spiegel",
+              "Stabilitätsprogramme (ESP)",
+              "ISOFIX",
+              "Multifunktionslenkrad",
+              "Regensensor",
+              "Sportsitze",
+              "Antriebsschlupfregelung (ASR)",
+              "Lederlenkrad",
+              "Tagfahrlicht",
+              "Freisprecheinrichtung",
+              "LED-Scheinwerfer",
+              "Klimaautomatik",
+              "Reifendrucksensor",
+              "Leasingfähig",
+              "Media-Interface / mp3",
+              "Lordosenstütze",
+              "Klimaanlage"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Nein"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "6/515/742/796_1918235620.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515742796/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/742/796_1918235620_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/742/796_1918235620_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/742/796_1918235620.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/742/796_1918235620.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/515/742/796_1932520840.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515742796/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/742/796_1932520840_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/742/796_1932520840_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/742/796_1932520840.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/742/796_1932520840.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/515/742/796_-1890516332.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515742796/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/742/796_-1890516332_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/742/796_-1890516332_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/742/796_-1890516332.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/742/796_-1890516332.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/515742796",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/515742796",
+            "selected": false,
+            "relativePath": "/atverz/515742796",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-xdrive-48v-mild-hybrid-technologie-aut-515742796/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-xdrive-48v-mild-hybrid-technologie-aut-515742796/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/515742796",
+            "selected": false,
+            "relativePath": "/515742796",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/515742796",
+            "selected": false,
+            "relativePath": "/userfolders/remove/515742796",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/515742796",
+            "selected": false,
+            "relativePath": "/userfolders/links/515742796",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=515742796",
+            "selected": false,
+            "relativePath": "/iad/object?adId=515742796",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "515742786",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "BMW 3er-Reihe 320d 48 V Mild-Hybrid-Technologie Aut.",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Neupreis EUR 60.063,-, Größerer Kraftstofftank, Rekuperationssystem, Sport Lederlenkrad, 8 Gang Sport Automatik, Reifendruckanzeige, Alarmanlage, Komfortzugang, Anhängekupplung el., Innen- und Außenspiegelpaket, Durchladesystem, Sportsitze Fahrer und..."
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "24510"
+            ]
+          },
+          {
+            "name": "imagedescription",
+            "values": [
+              "Bild 1"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "BMW"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "0d627519-58e2-4d0a-88c1-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1636077900000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "3er-Reihe"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "320d 48 V Mild-Hybrid-Technologie Aut."
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "35990.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "5"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "22483748"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/bmw-3er-reihe-320d-48-v-mild-hybrid-technologie-aut-515742786/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-11-05T03:05:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "140"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "6/515/742/786_-686098653.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100022"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Wetzelsdorferstrasse 35"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/22483748/denzel_4721288685217612285.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "47.05781,15.4136"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Graz"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "8052"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Steiermark"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "DENZEL Graz"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "12"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "5;24;69;15;8;117;75;3;29;19;77;97;94;68;74;45;63;26;114;104;89;82;88;38;81;84;87;112;9"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Graz"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "BMW 3er-Reihe 320d 48 V Mild-Hybrid-Technologie Aut."
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "Limousine"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "515742786"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "6"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2020"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "6/515/742/786_-686098653.jpg;6/515/742/786_1322777305.jpg;6/515/742/786_451148198.jpg;6/515/742/786_-452461473.jpg;6/515/742/786_-1027674097.jpg;6/515/742/786_-1078267132.jpg;6/515/742/786_1904934058.jpg;6/515/742/786_-215876548.jpg;6/515/742/786_869330583.jpg;6/515/742/786_-609620375.jpg;6/515/742/786_-1022231923.jpg;6/515/742/786_-478808857.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180004"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "35990"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 35.990"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1667639592000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Hybrid Elektro/Diesel"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Automatik"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Gebrauchtwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "ABS",
+              "Fahrerairbag",
+              "Leichtmetall-/Alufelgen",
+              "Sitzheizung",
+              "Zentralverriegelung",
+              "Kopfairbags",
+              "Beifahrerairbags",
+              "Seitenairbags",
+              "Alarmanlage",
+              "elektr. Spiegel",
+              "Stabilitätsprogramme (ESP)",
+              "ISOFIX",
+              "Multifunktionslenkrad",
+              "Nebelscheinwerfer",
+              "Parksensor hinten",
+              "Regensensor",
+              "Sportsitze",
+              "Antriebsschlupfregelung (ASR)",
+              "Lederlenkrad",
+              "Tagfahrlicht",
+              "Freisprecheinrichtung",
+              "Metallic-Lackierung",
+              "LED-Scheinwerfer",
+              "Klimaautomatik",
+              "Reifendrucksensor",
+              "Leasingfähig",
+              "Media-Interface / mp3",
+              "Lordosenstütze",
+              "Klimaanlage"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Nein"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "6/515/742/786_-686098653.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515742786/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/742/786_-686098653_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/742/786_-686098653_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/742/786_-686098653.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/742/786_-686098653.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/515/742/786_1322777305.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515742786/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/742/786_1322777305_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/742/786_1322777305_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/742/786_1322777305.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/742/786_1322777305.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/515/742/786_451148198.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/515742786/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/515/742/786_451148198_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/515/742/786_451148198_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/515/742/786_451148198.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/515/742/786_451148198.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/515742786",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/515742786",
+            "selected": false,
+            "relativePath": "/atverz/515742786",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-48-v-mild-hybrid-technologie-aut-515742786/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-48-v-mild-hybrid-technologie-aut-515742786/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/515742786",
+            "selected": false,
+            "relativePath": "/515742786",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/515742786",
+            "selected": false,
+            "relativePath": "/userfolders/remove/515742786",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/515742786",
+            "selected": false,
+            "relativePath": "/userfolders/links/515742786",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=515742786",
+            "selected": false,
+            "relativePath": "/iad/object?adId=515742786",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "468764603",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "BMW Z3 M-COUPE S54 NUR 269 STÜCK PRODUZIERT EXPORTPREIS 78.500,-",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "DIE BMW M-GMBH VERBAUTE IN DER ALLERLETZTEN AUFLAGE DES SEHR POLARISIERENDEM Z3 M-COUPE DEN SCHON FÜR DEN M3 E46 ENTWICKELTEN 6-ZYLINDER HOCHDREHZAHLMOTOR MIT 3.264 CCM MIT DER MOTORKENNUNG S54. DIESES AGGREGAT WAR IN DER DAMALIGEN ZUKUNFT FÜR DEN M3 E46..."
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "53300"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "BMW"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "0378ad96-6c36-44e4-bd48-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1620205200000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "Z3"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "M-COUPE S54 NUR 269 STÜCK PRODUZIERT EXPORTPREIS 78.500,-"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "83800.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "26983586"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/bmw-z3-m-coupe-s54-nur-269-stueck-produziert-exportpreis-78-500-468764603/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-05-05T11:00:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "239"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "3/468/764/603_-2008226969.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100001"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Himberger Straße 45"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/26983586/img_4480_jpg_8807538262257494601.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "15"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "48.14,16.383"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Wien, 10. Bezirk, Favoriten"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "1100"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Wien"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "Meyer - Motorsport"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "14"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "5;29;26;75;42;28;6;72;19;24;9;38;12;114;69;82;110;34;3;85;2;15;107;66;67;63;77;8"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Wien"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "BMW Z3 M-COUPE S54 NUR 269 STÜCK PRODUZIERT EXPORTPREIS 78.500,-"
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "Sportwagen / Coupé"
+            ]
+          },
+          {
+            "name": "NO_OF_OWNERS",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "468764603"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "14"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2002"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "3/468/764/603_-2008226969.jpg;3/468/764/603_-355738428.jpg;3/468/764/603_540146321.jpg;3/468/764/603_985719204.jpg;3/468/764/603_-914889281.jpg;3/468/764/603_-1204554901.jpg;3/468/764/603_-301012941.jpg;3/468/764/603_-1143482715.jpg;3/468/764/603_589488863.jpg;3/468/764/603_339991051.jpg;3/468/764/603_1562701447.jpg;3/468/764/603_81391259.jpg;3/468/764/603_1791090569.jpg;3/468/764/603_-1973755231.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180001"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "-1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "83800"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 83.800"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1664825993000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Benzin"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Schaltgetriebe"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Gebrauchtwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "ABS",
+              "Alarmanlage",
+              "Antriebsschlupfregelung (ASR)",
+              "Beifahrerairbags",
+              "Bordcomputer",
+              "CD Player",
+              "elektr. Fensterheber",
+              "elektr. Sitze",
+              "elektr. Spiegel",
+              "Fahrerairbag",
+              "Klimaanlage",
+              "Klimaautomatik",
+              "Lederausstattung",
+              "Lederlenkrad",
+              "Leichtmetall-/Alufelgen",
+              "Metallic-Lackierung",
+              "Nichtraucherfahrzeug",
+              "Radio",
+              "Seitenairbags",
+              "Servicegepflegt",
+              "Servolenkung",
+              "Sitzheizung",
+              "Sperrdifferential",
+              "Sportfahrwerk",
+              "Sportpaket",
+              "Sportsitze",
+              "Stabilitätsprogramme (ESP)",
+              "Zentralverriegelung"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Nein"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "3/468/764/603_-2008226969.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/468764603/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/3/468/764/603_-2008226969_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/3/468/764/603_-2008226969_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/3/468/764/603_-2008226969.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "3/468/764/603_-2008226969.jpg"
+          },
+          {
+            "id": 1,
+            "name": "3/468/764/603_-355738428.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/468764603/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/3/468/764/603_-355738428_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/3/468/764/603_-355738428_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/3/468/764/603_-355738428.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "3/468/764/603_-355738428.jpg"
+          },
+          {
+            "id": 1,
+            "name": "3/468/764/603_540146321.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/468764603/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/3/468/764/603_540146321_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/3/468/764/603_540146321_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/3/468/764/603_540146321.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "3/468/764/603_540146321.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/468764603",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/468764603",
+            "selected": false,
+            "relativePath": "/atverz/468764603",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/bmw-z3-m-coupe-s54-nur-269-stueck-produziert-exportpreis-78-500-468764603/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/bmw-z3-m-coupe-s54-nur-269-stueck-produziert-exportpreis-78-500-468764603/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/468764603",
+            "selected": false,
+            "relativePath": "/468764603",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/468764603",
+            "selected": false,
+            "relativePath": "/userfolders/remove/468764603",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/468764603",
+            "selected": false,
+            "relativePath": "/userfolders/links/468764603",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=468764603",
+            "selected": false,
+            "relativePath": "/iad/object?adId=468764603",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    },
+    {
+      "id": "451437326",
+      "verticalId": 3,
+      "adTypeId": 20,
+      "productId": 305,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "Alpine A110 A 110 Pure",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "DEFECTS_LIABILITY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Die Alpine ist seit dem ersten Tag Keramikversiegelt. Stand immer in der Garage. Sie ist wie aus der Auslage. Garagenauto, kaum gefahren. Sonderausstattungen: 18\"- Leichtmetallräder Sérac, glanzgedreht Ablage-Paket Aktive Sport-Abgasanlage Alpine..."
+            ]
+          },
+          {
+            "name": "CONDITION_REPORT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/TRADE_IN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "MILEAGE",
+            "values": [
+              "2450"
+            ]
+          },
+          {
+            "name": "imagedescription",
+            "values": [
+              "Bild 1"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MAKE",
+            "values": [
+              "Alpine"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "7fe9b252-58a8-48ce-ad69-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1614853320000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL",
+            "values": [
+              "A110"
+            ]
+          },
+          {
+            "name": "CAR_MODEL/MODEL_SPECIFICATION",
+            "values": [
+              "A 110 Pure"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "69900.0"
+            ]
+          },
+          {
+            "name": "AUTDEALER",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "NOOFSEATS",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "19592689"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "gebrauchtwagen/d/auto/alpine-a110-a-110-pure-451437326/"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2021-03-04T11:22:00Z"
+            ]
+          },
+          {
+            "name": "ENGINE/EFFECT",
+            "values": [
+              "185"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "6/451/437/326_-1986400548.jpg"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL",
+            "values": [
+              "100001"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Wiener Strasse 27"
+            ]
+          },
+          {
+            "name": "AD_SEARCHRESULT_LOGO",
+            "values": [
+              "atz/19592689/arb_logo_neu2020_13291476356861242498.png"
+            ]
+          },
+          {
+            "name": "SOURCE",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "CONDITION",
+            "values": [
+              "20"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "47.41601,15.27365"
+            ]
+          },
+          {
+            "name": "LOCATION",
+            "values": [
+              "Bruck an der Mur"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "8600"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Steiermark"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "ARB Autohaus Krainer GmbH"
+            ]
+          },
+          {
+            "name": "fnmmocount",
+            "values": [
+              "14"
+            ]
+          },
+          {
+            "name": "EQUIPMENT",
+            "values": [
+              "5;29;26;75;99;19;24;89;9;38;88;69;87;40;74;108;2;77;11"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Bruck-Mürzzuschlag"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "Alpine A110 A 110 Pure"
+            ]
+          },
+          {
+            "name": "CAR_TYPE",
+            "values": [
+              "Sportwagen / Coupé"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "451437326"
+            ]
+          },
+          {
+            "name": "EXTERIORCOLOURMAIN",
+            "values": [
+              "2"
+            ]
+          },
+          {
+            "name": "YEAR_MODEL",
+            "values": [
+              "2019"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "6/451/437/326_-1986400548.jpg;6/451/437/326_-1531973473.jpg;6/451/437/326_1386278652.jpg;6/451/437/326_1958600452.jpg;6/451/437/326_-11474697.jpg;6/451/437/326_-286003297.jpg;6/451/437/326_-1509496405.jpg;6/451/437/326_-432215823.jpg;6/451/437/326_-1735856709.jpg;6/451/437/326_-211752774.jpg;6/451/437/326_2139547653.jpg;6/451/437/326_-252910422.jpg;6/451/437/326_-1362433543.jpg;6/451/437/326_1906964033.jpg"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "MOTOR_PRICE_BONUS/FINANCE",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "305"
+            ]
+          },
+          {
+            "name": "TRANSMISSION",
+            "values": [
+              "180004"
+            ]
+          },
+          {
+            "name": "WARRANTY",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "69900"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 69.900"
+            ]
+          },
+          {
+            "name": "LAST_UPDATED",
+            "values": [
+              "1666689773000"
+            ]
+          },
+          {
+            "name": "ENGINE/FUEL_RESOLVED",
+            "values": [
+              "Benzin"
+            ]
+          },
+          {
+            "name": "TRANSMISSION_RESOLVED",
+            "values": [
+              "Automatik"
+            ]
+          },
+          {
+            "name": "CONDITION_RESOLVED",
+            "values": [
+              "Gebrauchtwagen"
+            ]
+          },
+          {
+            "name": "EQUIPMENT_RESOLVED",
+            "values": [
+              "ABS",
+              "Alarmanlage",
+              "Antriebsschlupfregelung (ASR)",
+              "Beifahrerairbags",
+              "Bluetooth / USB",
+              "elektr. Spiegel",
+              "Fahrerairbag",
+              "Freisprecheinrichtung",
+              "Klimaanlage",
+              "Klimaautomatik",
+              "LED-Scheinwerfer",
+              "Leichtmetall-/Alufelgen",
+              "Media-Interface / mp3",
+              "Navigationssystem",
+              "Parksensor hinten",
+              "Schaltwippen",
+              "Servolenkung",
+              "Stabilitätsprogramme (ESP)",
+              "Tempomat"
+            ]
+          },
+          {
+            "name": "WARRANTY_RESOLVED",
+            "values": [
+              "Ja"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "6/451/437/326_-1986400548.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/451437326/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/451/437/326_-1986400548_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/451/437/326_-1986400548_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/451/437/326_-1986400548.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/451/437/326_-1986400548.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/451/437/326_-1531973473.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/451437326/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/451/437/326_-1531973473_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/451/437/326_-1531973473_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/451/437/326_-1531973473.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/451/437/326_-1531973473.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/451/437/326_1386278652.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/451437326/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/451/437/326_1386278652_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/451/437/326_1386278652_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/451/437/326_1386278652.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/451/437/326_1386278652.jpg"
+          }
+        ]
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/451437326",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/451437326",
+            "selected": false,
+            "relativePath": "/atverz/451437326",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/gebrauchtwagen/d/auto/alpine-a110-a-110-pure-451437326/",
+            "selected": false,
+            "relativePath": "/atverz/gebrauchtwagen/d/auto/alpine-a110-a-110-pure-451437326/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/451437326",
+            "selected": false,
+            "relativePath": "/451437326",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/451437326",
+            "selected": false,
+            "relativePath": "/userfolders/remove/451437326",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/451437326",
+            "selected": false,
+            "relativePath": "/userfolders/links/451437326",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=451437326",
+            "selected": false,
+            "relativePath": "/iad/object?adId=451437326",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": "Gewährleistung, Garantie",
+        "iconSVG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck_v2.svg",
+        "iconPNG": "https://cache.willhaben.at/img/resultlist/auto/icon_car_warrantycheck.png",
+        "iconType": "CHECK"
+      },
+      "upsellingOrganisationLogo": null,
+      "children": null
+    }
+  ]
+}
