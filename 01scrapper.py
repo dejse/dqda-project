@@ -1,8 +1,16 @@
 import requests
 import json
-import gc 
 import time
 from datetime import datetime
+
+
+class NoAdvertSummaryError(Exception):
+    pass
+
+
+class RequestNotSuccessfull(Exception):
+    pass
+
 
 def get_data_from_willhaben(
     page: int = 1, price_to: int = 0, price_from: int = 0
@@ -37,7 +45,7 @@ def get_data_from_willhaben(
     r = requests.get(url, cookies=cookies, params=params, timeout=60)
 
     if not r.ok:
-        raise ValueError("Request was not successful", url)
+        raise RequestNotSuccessfull("Request was not successful", url)
 
     return r.text
 
@@ -58,56 +66,61 @@ def extract_json(html: str):
     data = JSON["props"]["pageProps"]["searchResult"]["advertSummaryList"]
 
     if len(data["advertSummary"]) == 0:
-        raise ValueError("Empty advertSummary")
+        raise NoAdvertSummaryError("Empty advertSummary")
 
     return data
 
 
 if __name__ == "__main__":
-
     now = datetime.now().strftime("%Y-%m-%d")
-
     try:
-
         # Scrap all until price < 25000
-        for page in range(1, 1000):
+        for page in range(1000):
             time.sleep(0.5)
-            if page % 10 == 0:
-                gc.collect()
+            for i in range(5):
+                try:
+                    html = get_data_from_willhaben(page, price_to=24_999)
+                    data = extract_json(html)
 
-            try:
-                html = get_data_from_willhaben(page, price_to=24_999)
-                data = extract_json(html)
+                    with open(
+                        f"./data/{now}_page={page}-price_to_24999.json",
+                        "w",
+                        encoding="utf-8",
+                    ) as file:
+                        json.dump(data, file, indent=2, ensure_ascii=False)
+                        print(f"Page: {page}, price_to: 24999, saved to {file.name}")
+                    break
 
-                with open(
-                    f"./data/{now}_page={page}-price_to_24999.json", "w", encoding="utf-8"
-                ) as file:
-                    json.dump(data, file, indent=2, ensure_ascii=False)
-                    print(f"Page: {page}, price_to: 24999, saved to {file.name}")
+                except RequestNotSuccessfull as e:
+                    print(e)
+                    time.sleep(i * 10)
 
-            except ValueError as e:
-                print(e)
-                break
+                except NoAdvertSummaryError:
+                    break
 
         # Scrap all from price > 25000
-        for page in range(1, 1000):
+        for page in range(1000):
             time.sleep(0.5)
-            if page % 10 == 0:
-                gc.collect()
+            for i in range(5):
+                try:
+                    html = get_data_from_willhaben(page, price_from=25_000)
+                    data = extract_json(html)
 
-            try:
-                html = get_data_from_willhaben(page, price_from=25_000)
-                data = extract_json(html)
+                    with open(
+                        f"./data/{now}_page={page}-price_from_25000.json",
+                        "w",
+                        encoding="utf-8",
+                    ) as file:
+                        json.dump(data, file, indent=2, ensure_ascii=False)
+                        print(f"Page: {page}, price_from: 24999, saved to {file.name}")
+                    break
 
-                with open(
-                    f"./data/{now}_page={page}-price_from_25000.json", "w", encoding="utf-8"
-                ) as file:
-                    json.dump(data, file, indent=2, ensure_ascii=False)
-                    print(f"Page: {page}, price_from: 24999, saved to {file.name}")
+                except RequestNotSuccessfull as e:
+                    print(e)
+                    time.sleep(i * 10)
 
-            except ValueError as e:
-                print(e)
-                break
+                except NoAdvertSummaryError:
+                    break
 
     except KeyboardInterrupt:
         print("Code stopped with CTRL+C")
