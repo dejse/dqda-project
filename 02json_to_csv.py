@@ -35,8 +35,8 @@ schema = [
     "ORGNAME",
     "fnmmocount",
     "UPSELLING_AD_SEARCHRESULT",
-    "ALL_IMAGE_URLS",
     "ISPRIVATE",
+    "EQUIPMENT_RESOLVED",
 ]
 clean_names = schema[:]
 clean_names[8] = "brand"
@@ -55,6 +55,8 @@ def extract_dict_from_json(entry: dict) -> dict:
         if e["name"] in schema:
             name = e["name"]
             value = e["values"][0]
+            if name in "EQUIPMENT_RESOLVED":
+                value = "|".join(e["values"])
             record.update({name: value})
     return record
 

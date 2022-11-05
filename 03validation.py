@@ -33,10 +33,11 @@ class Inserat(BaseModel):
     orgname: Union[str, None]
     fnmmocount: Union[int, None]
     upselling_ad_searchresult: Union[str, None]
-    all_image_urls: Union[str, None]
     isprivate: Union[int, None]
+    equipment_resolved: Union[str, None]
 
-    @validator("year_model", "mileage", pre=True, allow_reuse=True)
+
+    @validator("year_model", "mileage", "engine_effect", pre=True, allow_reuse=True)
     def make_int(cls, v):
         return int(v)
 
