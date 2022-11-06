@@ -9,15 +9,15 @@ class Inserat(BaseModel):
     product_id: Union[int, None]
     heading: str
     body_dyn: Union[str, None]
-    price: float = Field(ge=0)
-    year_model: Union[int, None] = Field(..., ge=0)
-    mileage: Union[int, None] = Field(..., ge=0)
+    price: int = Field(ge=0)
+    year_model: int = Field(ge=0)
+    mileage: int = Field(ge=0)
     brand: Union[str, None]
     model: Union[str, None]
     car_type: Union[str, None]
     no_of_owners: Union[str, None]
     noofseats: Union[str, None]
-    engine_effect: Union[int, None]
+    engine_effect: int = Field(ge=0)
     engine_fuel_resolved: Union[str, None]
     transmission_resolved: Union[str, None]
     condition_resolved: Union[str, None]
@@ -37,7 +37,7 @@ class Inserat(BaseModel):
     equipment_resolved: Union[str, None]
 
 
-    @validator("year_model", "mileage", "engine_effect", pre=True, allow_reuse=True)
+    @validator("year_model", "mileage", "engine_effect", "price", pre=True, allow_reuse=True)
     def make_int(cls, v):
         return int(v)
 
