@@ -4,7 +4,7 @@ import csv
 
 
 class Inserat(BaseModel):
-    id: str = Field(len=9)
+    id: str = Field(min_length=9)
     description: Union[str, None]
     product_id: Union[int, None]
     heading: str
