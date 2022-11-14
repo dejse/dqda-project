@@ -75,58 +75,43 @@ def extract_json_from_html(html: str) -> Dict:
     return data
 
 
-if __name__ == "__main__":
+def loop_scrap_save(price_to: int = 0, price_from: int = 0):
+    """
+    Set Price Filter, loop through all 999 pages and save scrapped json
+    """
     now = datetime.now().strftime("%Y-%m-%d")
+
+    for page in range(1, 1000):
+        time.sleep(0.5)
+        for retry in range(5):
+            try:
+                html = get_html_from_willhaben(page, price_to, price_from)
+                data = extract_json_from_html(html)
+
+                if price_from > 0:
+                    file_name = f"./_data/{now}_page={page}-price_from_{price_from}.json"
+
+                if price_to > 0: 
+                    file_name = f"./_data/{now}_page={page}-price_to_{price_to}.json"
+
+                with open(file_name, "w", encoding="utf-8") as file:
+                    json.dump(data, file, indent=2, ensure_ascii=False)
+                    print(f"Page: {page}, saved to {file_name}")
+                
+                break  # break retry loop
+
+            except RequestNotSuccessfulError as e:
+                print(e)
+                time.sleep(10 + 10*retry)
+
+            except JSONDataError as e:
+                print(e)
+                break
+
+if __name__ == "__main__":
     try:
-        # Scrap all until price < 25000
-        for page in range(1, 1000):
-            time.sleep(0.5)
-            for i in range(5):
-                try:
-                    html = get_html_from_willhaben(page, price_to=24_999)
-                    data = extract_json_from_html(html)
-
-                    with open(
-                        f"./data/{now}_page={page}-price_to_24999.json",
-                        "w",
-                        encoding="utf-8",
-                    ) as file:
-                        json.dump(data, file, indent=2, ensure_ascii=False)
-                        print(f"Page: {page}, price_to: 24999, saved to {file.name}")
-                    break
-
-                except RequestNotSuccessfulError as e:
-                    print(e)
-                    time.sleep(i * 10 + 1)
-
-                except JSONDataError as e:
-                    print(e)
-                    break
-
-        # Scrap all from price > 25000
-        for page in range(1, 1000):
-            time.sleep(0.5)
-            for i in range(5):
-                try:
-                    html = get_html_from_willhaben(page, price_from=25_000)
-                    data = extract_json_from_html(html)
-
-                    with open(
-                        f"./data/{now}_page={page}-price_from_25000.json",
-                        "w",
-                        encoding="utf-8",
-                    ) as file:
-                        json.dump(data, file, indent=2, ensure_ascii=False)
-                        print(f"Page: {page}, price_from: 24999, saved to {file.name}")
-                    break
-
-                except RequestNotSuccessfulError as e:
-                    print(e)
-                    time.sleep(i * 10 + 1)
-
-                except JSONDataError as e:
-                    print(e)
-                    break
+        loop_scrap_save(price_to=24999)        
+        loop_scrap_save(price_from=25000)
 
     except KeyboardInterrupt:
         print("Code stopped with CTRL+C")
