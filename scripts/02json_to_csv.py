@@ -4,42 +4,15 @@ from pathlib import Path
 from typing import Dict
 import gc
 
-data_path = Path("./json")
-
-schema = [
-    "id",
-    "description",
-    "PRODUCT_ID",
-    "HEADING",
-    "BODY_DYN",
-    "PRICE",
-    "YEAR_MODEL",
-    "MILEAGE",
-    "CAR_MODEL/MAKE",
-    "CAR_MODEL/MODEL",
-    "CAR_TYPE",
-    "NO_OF_OWNERS",
-    "NOOFSEATS",
-    "ENGINE/EFFECT",
-    "ENGINE/FUEL_RESOLVED",
-    "TRANSMISSION_RESOLVED",
-    "CONDITION_RESOLVED",
-    "WARRANTY_RESOLVED",
-    "PUBLISHED_String",
-    "COUNTRY",
-    "COORDINATES",
-    "POSTCODE",
-    "STATE",
-    "DISTRICT",
-    "ADDRESS",
-    "LOCATION",
-    "ORGNAME",
-    "fnmmocount",
-    "UPSELLING_AD_SEARCHRESULT",
-    "ISPRIVATE",
-    "EQUIPMENT_RESOLVED",
+SCHEMA = [
+    "id", "description", "PRODUCT_ID", "HEADING", "BODY_DYN", "PRICE", "YEAR_MODEL",
+    "MILEAGE", "CAR_MODEL/MAKE", "CAR_MODEL/MODEL", "CAR_TYPE", "NO_OF_OWNERS",
+    "NOOFSEATS", "ENGINE/EFFECT", "ENGINE/FUEL_RESOLVED", "TRANSMISSION_RESOLVED",
+    "CONDITION_RESOLVED", "WARRANTY_RESOLVED", "PUBLISHED_String", "COUNTRY",
+    "COORDINATES", "POSTCODE", "STATE", "DISTRICT", "ADDRESS", "LOCATION",
+    "ORGNAME", "fnmmocount", "UPSELLING_AD_SEARCHRESULT","ISPRIVATE","EQUIPMENT_RESOLVED",
 ]
-clean_names = schema[:]
+clean_names = SCHEMA[:]
 clean_names[8] = "brand"
 clean_names[9] = "model"
 clean_names[13] = "engine_effect"
@@ -53,7 +26,7 @@ def extract_row_from_json_item(item: Dict) -> Dict:
     """
     row = {"id": item["id"], "description": item["description"]}
     for e in item["attributes"]["attribute"]:
-        if e["name"] in schema:
+        if e["name"] in SCHEMA:
             name = e["name"]
             value = e["values"][0]
             if name in "EQUIPMENT_RESOLVED":
@@ -65,11 +38,11 @@ def extract_row_from_json_item(item: Dict) -> Dict:
 if __name__ == "__main__":
     # Open CSV File and prep it
     csv_file = open("./data/data_.csv", "w", newline="", encoding="utf-8")
-    writer = csv.DictWriter(csv_file, dialect="excel", delimiter=";", fieldnames=schema)
+    writer = csv.DictWriter(csv_file, dialect="excel", delimiter=";", fieldnames=SCHEMA)
     writer.writeheader()
 
     # Go through data folder and iterate through all json files
-    for file in data_path.iterdir():
+    for file in Path("./json").iterdir():
         with open(file.resolve(), "r", encoding="utf-8") as f:
             print(f"File: {file.stem}")
             data = json.load(f)["advertSummary"]
