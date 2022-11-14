@@ -36,17 +36,15 @@ class Inserat(BaseModel):
     isprivate: Union[int, None]
     equipment_resolved: Union[str, None]
 
-
     @validator("year_model", "mileage", "engine_effect", "price", pre=True, allow_reuse=True)
     def make_int(cls, v):
         return int(v)
 
 
 if __name__ == "__main__":
-
     validated_data = []
     data = []
-    with open("data.csv", "r", newline="", encoding="utf-8") as csvfile:
+    with open("./data/data.csv", "r", newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=";")
         data = list(reader)
         for item in data:
@@ -58,7 +56,7 @@ if __name__ == "__main__":
     print(f"Rows of raw data {len(data)}")
     print(f"Rows of validated data {len(validated_data)}")
 
-    with open("data-validated.csv", "w", newline="", encoding="utf-8") as csvfile:
+    with open("./data/data-validated.csv", "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(
             csvfile,
             dialect="excel",

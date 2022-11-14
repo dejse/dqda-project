@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import Dict
 import gc
 
-data_path = Path("./data")
+data_path = Path("./json")
 
 schema = [
     "id",
@@ -64,7 +64,7 @@ def extract_row_from_json_item(item: Dict) -> Dict:
 
 if __name__ == "__main__":
     # Open CSV File and prep it
-    csv_file = open("data_.csv", "w", newline="", encoding="utf-8")
+    csv_file = open("./data/data_.csv", "w", newline="", encoding="utf-8")
     writer = csv.DictWriter(csv_file, dialect="excel", delimiter=";", fieldnames=schema)
     writer.writeheader()
 
@@ -82,8 +82,8 @@ if __name__ == "__main__":
     csv_file.close()
 
     # Rewrite header with clean names
-    with open("data_.csv", "r", newline="", encoding="utf-8") as input, open(
-        "data.csv", "w", newline="", encoding="utf-8"
+    with open("./data/data_.csv", "r", newline="", encoding="utf-8") as input, open(
+        "./data/data.csv", "w", newline="", encoding="utf-8"
     ) as output:
         reader = csv.reader(input, delimiter=";")
         writer = csv.writer(output, delimiter=";")
@@ -94,4 +94,4 @@ if __name__ == "__main__":
         for row in reader:
             writer.writerow(row)
 
-    Path("data_.csv").unlink()
+    Path("./data/data_.csv").unlink()
