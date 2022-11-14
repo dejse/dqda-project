@@ -2,9 +2,10 @@ import requests
 import json
 import time
 from datetime import datetime
+from typing import Dict
 
 
-class NoAdvertSummaryError(Exception):
+class JSONDataError(Exception):
     pass
 
 
@@ -12,11 +13,11 @@ class RequestNotSuccessfulError(Exception):
     pass
 
 
-def get_data_from_willhaben(
+def get_html_from_willhaben(
     page: int = 1, price_to: int = 0, price_from: int = 0
 ) -> str:
     """
-    Scrap Willhaben Gebrauchtwagenboerse and return full html as string.
+    Scrap Willhaben Gebrauchtwagenboerse and return page html as string 
     """
     url = "https://www.willhaben.at/iad/gebrauchtwagen/auto/gebrauchtwagenboerse"
     cookies = {
@@ -34,13 +35,13 @@ def get_data_from_willhaben(
     params = {"rows": 75}
 
     if page > 0 and type(page) == int:
-        params["page"] = page
+        params.update({"page": page})
 
     if price_to > 0 and type(price_to) == int:
-        params["PRICE_TO"] = price_to
+        params.update({"PRICE_TO": price_to})
 
     if price_from > 0 and type(price_from) == int:
-        params["PRICE_FROM"] = price_from
+        params.update({"PRICE_FROM": price_from})
 
     r = requests.get(url, cookies=cookies, params=params, timeout=60)
 
@@ -50,23 +51,26 @@ def get_data_from_willhaben(
     return r.text
 
 
-def extract_json(html: str):
+def extract_json_from_html(html: str) -> Dict:
     """
-    Extract JSON with id=NEXT_DATA
+    Extract JSON from Next.js page (Willhaben), by searching for id=NEXT_DATA
     """
-    if "__NEXT_DATA__" and "advertSummaryList" not in html:
-        raise ValueError("No script tag with id='__NEXT_Data__'")
+    if "__NEXT_DATA__" not in html:
+        raise JSONDataError("No script tag with id='__NEXT_Data__'")
+
+    if "advertSummaryList" not in html:
+        raise JSONDataError("No advertSummaryList in JSON Data")    
 
     script_tag_open = """<script id="__NEXT_DATA__" type="application/json">"""
     script_tag_close = """</script>"""
     start = html.find(script_tag_open) + len(script_tag_open)
     end = start + html[start:].find(script_tag_close)
 
-    JSON = json.loads(html[start:end])
-    data = JSON["props"]["pageProps"]["searchResult"]["advertSummaryList"]
+    json_data = json.loads(html[start:end])
+    data = json_data["props"]["pageProps"]["searchResult"]["advertSummaryList"]
 
     if len(data["advertSummary"]) == 0:
-        raise NoAdvertSummaryError("Empty advertSummary")
+        raise JSONDataError("Empty advertSummary")
 
     return data
 
@@ -79,8 +83,8 @@ if __name__ == "__main__":
             time.sleep(0.5)
             for i in range(5):
                 try:
-                    html = get_data_from_willhaben(page, price_to=24_999)
-                    data = extract_json(html)
+                    html = get_html_from_willhaben(page, price_to=24_999)
+                    data = extract_json_from_html(html)
 
                     with open(
                         f"./data/{now}_page={page}-price_to_24999.json",
@@ -95,7 +99,7 @@ if __name__ == "__main__":
                     print(e)
                     time.sleep(i * 10 + 1)
 
-                except NoAdvertSummaryError as e:
+                except JSONDataError as e:
                     print(e)
                     break
 
@@ -104,8 +108,8 @@ if __name__ == "__main__":
             time.sleep(0.5)
             for i in range(5):
                 try:
-                    html = get_data_from_willhaben(page, price_from=25_000)
-                    data = extract_json(html)
+                    html = get_html_from_willhaben(page, price_from=25_000)
+                    data = extract_json_from_html(html)
 
                     with open(
                         f"./data/{now}_page={page}-price_from_25000.json",
@@ -120,7 +124,7 @@ if __name__ == "__main__":
                     print(e)
                     time.sleep(i * 10 + 1)
 
-                except NoAdvertSummaryError as e:
+                except JSONDataError as e:
                     print(e)
                     break
 
