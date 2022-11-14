@@ -1,6 +1,7 @@
 import json
 import csv
 from pathlib import Path
+from typing import Dict
 import gc
 
 data_path = Path("./data")
@@ -46,19 +47,19 @@ clean_names[14] = "engine_fuel_resolved"
 clean_names = [item.lower() for item in clean_names]
 
 
-def extract_dict_from_json(entry: dict) -> dict:
+def extract_row_from_json_item(item: Dict) -> Dict:
     """
-    Extract and format relevant data from Willhaben JSON
+    Extract relevant data from Willhaben JSON item and return a row dict
     """
-    record = {"id": entry["id"], "description": entry["description"]}
-    for e in entry["attributes"]["attribute"]:
+    row = {"id": item["id"], "description": item["description"]}
+    for e in item["attributes"]["attribute"]:
         if e["name"] in schema:
             name = e["name"]
             value = e["values"][0]
             if name in "EQUIPMENT_RESOLVED":
                 value = "|".join(e["values"])
-            record.update({name: value})
-    return record
+            row.update({name: value})
+    return row
 
 
 if __name__ == "__main__":
@@ -73,9 +74,9 @@ if __name__ == "__main__":
             print(f"File: {file.stem}")
             data = json.load(f)["advertSummary"]
 
-            for entry in data:
-                record = extract_dict_from_json(entry)
-                writer.writerow(record)
+            for item in data:
+                row = extract_row_from_json_item(item)
+                writer.writerow(row)
 
         gc.collect()
     csv_file.close()
