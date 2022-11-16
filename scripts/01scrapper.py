@@ -73,13 +73,13 @@ def extract_json_from_html(html: str) -> Dict:
     return data
 
 
-def loop_scrap_save(price_to: int = 0, price_from: int = 0):
+def loop_scrap_save(pages: int = 999, price_to: int = 0, price_from: int = 0):
     """
-    Set Price Filter, loop through all 999 pages and save scrapped json
+    Set Price Filter, loop through all pages and save scrapped json
     """
     now = datetime.now().strftime("%Y-%m-%d")
 
-    for page in range(1, 1000):
+    for page in range(1, pages+1):
         time.sleep(0.5)
         for retry in range(5):
             try:
@@ -87,10 +87,10 @@ def loop_scrap_save(price_to: int = 0, price_from: int = 0):
                 data = extract_json_from_html(html)
 
                 if price_from > 0:
-                    file_name = f"./_data/{now}_page={page}-price_from_{price_from}.json"
+                    file_name = f"./json/{now}_page={page}-price_from_{price_from}.json"
 
                 if price_to > 0: 
-                    file_name = f"./_data/{now}_page={page}-price_to_{price_to}.json"
+                    file_name = f"./json/{now}_page={page}-price_to_{price_to}.json"
 
                 with open(file_name, "w", encoding="utf-8") as file:
                     json.dump(data, file, indent=2, ensure_ascii=False)
