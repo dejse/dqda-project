@@ -13,9 +13,7 @@ class RequestNotSuccessfulError(Exception):
     pass
 
 
-def get_html_from_willhaben(
-    page: int = 1, price_to: int = 0, price_from: int = 0
-) -> str:
+def get_html_from_willhaben(page: int = 1, price_to: int = 0, price_from: int = 0) -> str:
     """
     Scrap Willhaben Gebrauchtwagenboerse and return page html as string 
     """
