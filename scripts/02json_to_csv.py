@@ -10,7 +10,7 @@ SCHEMA = [
     "NOOFSEATS", "ENGINE/EFFECT", "ENGINE/FUEL_RESOLVED", "TRANSMISSION_RESOLVED",
     "CONDITION_RESOLVED", "WARRANTY_RESOLVED", "PUBLISHED_String", "COUNTRY",
     "COORDINATES", "POSTCODE", "STATE", "DISTRICT", "ADDRESS", "LOCATION",
-    "ORGNAME", "fnmmocount", "UPSELLING_AD_SEARCHRESULT","ISPRIVATE","EQUIPMENT_RESOLVED",
+    "ORGNAME", "fnmmocount", "UPSELLING_AD_SEARCHRESULT", "ISPRIVATE", "EQUIPMENT_RESOLVED",
 ]
 clean_names = SCHEMA[:]
 clean_names[8] = "brand"
@@ -38,7 +38,8 @@ def extract_row_from_json_item(item: Dict) -> Dict:
 if __name__ == "__main__":
     # Open CSV File and prep it
     csv_file = open("./data/data_.csv", "w", newline="", encoding="utf-8")
-    writer = csv.DictWriter(csv_file, dialect="excel", delimiter=";", fieldnames=SCHEMA)
+    writer = csv.DictWriter(csv_file, dialect="excel",
+                            delimiter=";", fieldnames=SCHEMA)
     writer.writeheader()
 
     # Go through data folder and iterate through all json files
@@ -56,8 +57,7 @@ if __name__ == "__main__":
 
     # Rewrite header with clean names
     with open("./data/data_.csv", "r", newline="", encoding="utf-8") as input, open(
-        "./data/data.csv", "w", newline="", encoding="utf-8"
-    ) as output:
+        "./data/data.csv", "w", newline="", encoding="utf-8") as output:
         reader = csv.reader(input, delimiter=";")
         writer = csv.writer(output, delimiter=";")
 
