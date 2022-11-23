@@ -20,17 +20,17 @@ clean_names[14] = "engine_fuel_resolved"
 clean_names = [item.lower() for item in clean_names]
 
 
-def extract_row_from_json_item(item: Dict) -> Dict:
+def get_row_from_json_item(item: Dict) -> Dict:
     """
-    Extract relevant data from Willhaben JSON item and return a row dict
+    Extract relevant data from Willhaben JSON element and return a row dict
     """
     row = {"id": item["id"], "description": item["description"]}
-    for e in item["attributes"]["attribute"]:
-        if e["name"] in SCHEMA:
-            name = e["name"]
-            value = e["values"][0]
+    for el in item["attributes"]["attribute"]:
+        if el["name"] in SCHEMA:
+            name = el["name"]
+            value = el["values"][0]
             if name in "EQUIPMENT_RESOLVED":
-                value = "|".join(e["values"])
+                value = "|".join(el["values"])
             row.update({name: value})
     return row
 
@@ -38,8 +38,7 @@ def extract_row_from_json_item(item: Dict) -> Dict:
 if __name__ == "__main__":
     # Open CSV File and prep it
     csv_file = open("./data/data_.csv", "w", newline="", encoding="utf-8")
-    writer = csv.DictWriter(csv_file, dialect="excel",
-                            delimiter=";", fieldnames=SCHEMA)
+    writer = csv.DictWriter(csv_file, dialect="excel",bdelimiter=";", fieldnames=SCHEMA)
     writer.writeheader()
 
     # Go through data folder and iterate through all json files
@@ -49,10 +48,12 @@ if __name__ == "__main__":
             data = json.load(f)["advertSummary"]
 
             for item in data:
-                row = extract_row_from_json_item(item)
+                row = get_row_from_json_item(item)
                 writer.writerow(row)
 
         gc.collect()
+
+    # Close CSV File
     csv_file.close()
 
     # Rewrite header with clean names
@@ -67,4 +68,5 @@ if __name__ == "__main__":
         for row in reader:
             writer.writerow(row)
 
+    # Delete first csv file
     Path("./data/data_.csv").unlink()
