@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field, ValidationError, validator
-from typing import Union
+from typing import Union, Literal
 import csv
 
 
@@ -23,7 +23,7 @@ class Inserat(BaseModel):
     condition_resolved: Union[str, None]
     warranty_resolved: Union[str, None]
     published_string: Union[str, None]
-    country: Union[str, None]
+    country: Literal["Österreich"]
     coordinates: Union[str, None]
     postcode: Union[str, None]
     state: Union[str, None]
