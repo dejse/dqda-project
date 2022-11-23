@@ -43,7 +43,6 @@ class Inserat(BaseModel):
 
 if __name__ == "__main__":
     validated_data = []
-    data = []
     with open("./data/data.csv", "r", newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=";")
         data = list(reader)
@@ -57,10 +56,7 @@ if __name__ == "__main__":
     print(f"Rows of validated data {len(validated_data)}")
 
     with open("./data/data-validated.csv", "w", newline="", encoding="utf-8") as csvfile:
-        writer = csv.DictWriter(
-            csvfile,
-            dialect="excel",
-            delimiter=";",
+        writer = csv.DictWriter(csvfile, delimiter=";", dialect="excel",
             fieldnames=list(validated_data[0].keys()),
         )
         writer.writeheader()
