@@ -3,14 +3,13 @@
 Project repository for an university course about data sources and analysis with Python. 
 
 ## Goals
-
-[x] Scrap Willhaben.at for used cars listings
-[x] Save data as csv files
-[x] Validate raw data
-[x] Analyse data
-[x] Pre-process data and do some feature engineering
-[x] Apply ML Algorithms 
-[x] Present results with Jupyter Notebooks
+- ✔️ Scrap Willhaben.at for used cars listings
+- ✔️ Save data as csv files
+- ✔️ Validate raw data
+- ✔️ Analyse data
+- ✔️ Pre-process data and do some feature engineering
+- ✔️ Apply ML Algorithms 
+- ✔️ Present results with Jupyter Notebooks
 
 
 ## Technologies used
