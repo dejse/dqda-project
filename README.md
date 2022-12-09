@@ -3,6 +3,7 @@
 Project repository for an university course about data sources and analysis with Python. 
 
 ## Goals
+
 [x] Scrap Willhaben.at for used cars listings
 [x] Save data as csv files
 [x] Validate raw data
