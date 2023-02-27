@@ -38,7 +38,7 @@ def get_row_from_json_item(item: Dict) -> Dict:
 if __name__ == "__main__":
     # Open CSV File and prep it
     csv_file = open("./data/data_.csv", "w", newline="", encoding="utf-8")
-    writer = csv.DictWriter(csv_file, dialect="excel",bdelimiter=";", fieldnames=SCHEMA)
+    writer = csv.DictWriter(csv_file, dialect="excel", delimiter=";", fieldnames=SCHEMA)
     writer.writeheader()
 
     # Go through data folder and iterate through all json files
